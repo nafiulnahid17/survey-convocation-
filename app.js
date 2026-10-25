@@ -15,9 +15,9 @@
  * No data is sent or stored by this starter version.
  */
 
-const SUPABASE_URL = "";       // TODO: add Supabase project URL later
-const SUPABASE_ANON_KEY = "";  // TODO: add Supabase anon/public key later
-const SUPABASE_TABLE = "convocation_survey_responses";
+const SUPABASE_URL = "https://pkbbqmpxooepcnocyzou.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBrYmJxbXB4b29lcGNub2N5em91Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI5MjAwNTksImV4cCI6MjEwODQ5NjA1OX0.4EAqc0xoXxwFpBfbP5NT579g2YyiPfx15r9f7oaiTGM";
+const SUPABASE_TABLE = "survey_responses";
 
 const form = document.getElementById("surveyForm");
 const contactValue = document.getElementById("contactValue");
