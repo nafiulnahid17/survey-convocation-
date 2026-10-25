@@ -1,2 +1,2 @@
 /* Public browser settings only. NEVER use a Supabase service_role/secret key here. */
-window.NBIU_SURVEY_CONFIG={SUPABASE_URL:"https://YOUR-PROJECT-REF.supabase.co",SUPABASE_ANON_KEY:"YOUR_SUPABASE_ANON_OR_PUBLISHABLE_KEY",TABLE_NAME:"convocation_survey"};
+window.NBIU_SURVEY_CONFIG={SUPABASE_URL:"https://rkjmflothfyeiwnnvlmo.supabase.co",SUPABASE_ANON_KEY:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJram1mbG90aGZ5ZWl3bm52bG1vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI5NDE3MTIsImV4cCI6MjEwODUxNzcxMn0.8BIcgMukk04ByBzS96SsGg9BBHHJpmGOlvJ6iEY75pI",TABLE_NAME:"convocation_survey"};
